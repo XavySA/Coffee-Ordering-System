@@ -78,5 +78,5 @@ python part4\_gui.py
 
 ## 👤 Author
 
-Xavier Van Kolver — built as part of the Software Engineering module (ITPRA0-33) for the Data Analytics Higher Certificate at Eduvos.
+Xavier Van Kolver
 
